@@ -1,0 +1,1 @@
+function prompter(){var e=prompt("Buenas ¿cuál es tu nombre?","");alert("Es un gusto tenerte aquí "+e+"!")}
