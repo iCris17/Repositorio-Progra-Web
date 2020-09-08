@@ -1,0 +1,1 @@
+var resta=function(r,n){return r-n};
